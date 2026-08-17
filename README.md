@@ -18,6 +18,6 @@ Welcome to my Linux Administration repository! This repository contains my custo
 ---
 
 ## 📁 Repository Structure
-- `RH124-Red-Hat-System-Administration-Course-Guide.pdf` - Original course curriculum.
-- `Linux-Admin-Enhanced-Mastery-Guide/` - My customized 6-module presentation decks with practical command breakdowns and architecture slides.
-- `Certificate/` - Course completion certificate issued by Mahara-Tech (ITI).
+- `Linux_Administrator1_Original_Guide.pdf` - Original RH124 course curriculum guide.
+- `Linux-Admin-Enhanced-Mastery-Guide/` - Customized presentation decks and study modules (1-5).
+- `Certificate Linux_Admin-1.pdf` - Official RH124 Certificate of Completion issued by ITI Mahara-Tech.
